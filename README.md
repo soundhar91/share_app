@@ -1,6 +1,6 @@
 This is a simple chrome extension to share your URL to your facebook friends quickly.
 
-This is not on the store yet. But if you want to try how it works follow these instructions.
+This is not in chrome web store yet. But if you want to try how it works, follow these instructions.
 
 Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:
 The menu's icon is three horizontal bars.. and select Extensions under the Tools menu to get to the same place).
