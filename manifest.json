@@ -1,0 +1,20 @@
+{
+  "name": "Quick share",
+  "description": "App to share your URL in facebook immediatly",
+  "version" : "1.0",
+  "page_action": {
+    "default_icon": {
+      "19" : "FB-f-Logo__blue_29.png",
+      "50" : "FB-f-Logo__blue_50.png"
+    },
+    "default_title" : "Quick Share"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [ "tabs","declarativeContent" ],
+  "icons": {
+     "48": "FB-f-Logo__blue_58.png",
+    "128": "FB-f-Logo__blue_114.png" },
+  "manifest_version": 2
+}
